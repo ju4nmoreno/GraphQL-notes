@@ -1,2 +1,2 @@
 # GraphQL
-(ODYSSEY Graph)[https://www.apollographql.com/tutorials/certifications/apollo-graph-associate/learning-path/]
+[Apollo Graph Developer](https://www.apollographql.com/tutorials/certifications/apollo-graph-associate/learning-path/)
