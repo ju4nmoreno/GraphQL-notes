@@ -29,4 +29,6 @@ type SpaceCat {
 - Which of these are benefits of schema-first design?
     - it reduces total development time.
     - it enables teams to work in parallel
+
+<img width="989" alt="image" src="https://github.com/ju4nmoreno/GraphQL-notes/assets/11647634/5caf58d0-1fd5-43c6-bfa5-2720a8abf3b2">
 - Which of these accurately describes a graph in GraphQL?
